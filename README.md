@@ -15,8 +15,8 @@ The goal is to learn how to integrate speech recognition and text-to-speech synt
 
 ### Skills Learned
 
-- Implementation of voice recognition with SpeechRecognition.
-- Use of text-to-speech synthesis with pyttsx3.
+- Implementation of voice recognition with `SpeechRecognition`.
+- Use of text-to-speech synthesis with `pyttsx3`.
 - Handling audio input and output.
 - Opening web links based on voice commands.
 - Using control flow structures in Python.
@@ -26,9 +26,9 @@ The goal is to learn how to integrate speech recognition and text-to-speech synt
 ![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
 
 - Python
-- SpeechRecognition
-- pyttsx3
-- Webbrowser
+- `SpeechRecognition` (Python Library).
+- `pyttsx3` (Python Library).
+- `Webbrowser` (Python Library).
 
 ### Project
 

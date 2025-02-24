@@ -15,8 +15,8 @@ El propósito es aprender a integrar tecnologías de reconocimiento de voz y sí
 
 ### Habilidades Aprendidas
 
-- Implementación de reconocimiento de voz con SpeechRecognition.
-- Uso de síntesis de voz con pyttsx3.
+- Implementación de reconocimiento de voz con `SpeechRecognition`.
+- Uso de síntesis de voz con `pyttsx3`.
 - Manipulación de entrada y salida de audio.
 - pertura de enlaces web basados en comandos de voz.
 - Uso de estructuras de control de flujo en Python.
@@ -26,9 +26,9 @@ El propósito es aprender a integrar tecnologías de reconocimiento de voz y sí
 ![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
 
 - Python
-- SpeechRecognition
-- pyttsx3
-- Webbrowser
+- `SpeechRecognition` (Biblioteca de Python).
+- `pyttsx3` (Biblioteca de Python).
+- `Webbrowser` (Biblioteca de Python).
 
 ### Proyecto
 
