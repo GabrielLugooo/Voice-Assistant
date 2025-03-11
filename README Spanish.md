@@ -24,6 +24,9 @@ El propósito es aprender a integrar tecnologías de reconocimiento de voz y sí
 ### Herramientas Usadas
 
 ![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Speech%20Recognition-000000?logo=googletranslate&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Pyttsx3-000000?logo=pyttsx3&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Webbrowser-000000?logo=webbrowser&logoSize=auto)
 
 - Python
 - `SpeechRecognition` (Biblioteca de Python).

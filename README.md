@@ -24,6 +24,9 @@ The goal is to learn how to integrate speech recognition and text-to-speech synt
 ### Tools Used
 
 ![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Speech%20Recognition-000000?logo=googletranslate&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Pyttsx3-000000?logo=pyttsx3&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Webbrowser-000000?logo=webbrowser&logoSize=auto)
 
 - Python
 - `SpeechRecognition` (Python Library).
